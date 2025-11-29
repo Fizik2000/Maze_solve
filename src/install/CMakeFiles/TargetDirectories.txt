@@ -1,0 +1,9 @@
+/home/sirazhudin_ubuntu/projects_s21/A1_Maze_CPP.ID_1391674-Team_TL_darksidt.a6eee03a_bae7_4c64-1/src/install/CMakeFiles/maze_view.dir
+/home/sirazhudin_ubuntu/projects_s21/A1_Maze_CPP.ID_1391674-Team_TL_darksidt.a6eee03a_bae7_4c64-1/src/install/CMakeFiles/edit_cache.dir
+/home/sirazhudin_ubuntu/projects_s21/A1_Maze_CPP.ID_1391674-Team_TL_darksidt.a6eee03a_bae7_4c64-1/src/install/CMakeFiles/rebuild_cache.dir
+/home/sirazhudin_ubuntu/projects_s21/A1_Maze_CPP.ID_1391674-Team_TL_darksidt.a6eee03a_bae7_4c64-1/src/install/CMakeFiles/list_install_components.dir
+/home/sirazhudin_ubuntu/projects_s21/A1_Maze_CPP.ID_1391674-Team_TL_darksidt.a6eee03a_bae7_4c64-1/src/install/CMakeFiles/install.dir
+/home/sirazhudin_ubuntu/projects_s21/A1_Maze_CPP.ID_1391674-Team_TL_darksidt.a6eee03a_bae7_4c64-1/src/install/CMakeFiles/install/local.dir
+/home/sirazhudin_ubuntu/projects_s21/A1_Maze_CPP.ID_1391674-Team_TL_darksidt.a6eee03a_bae7_4c64-1/src/install/CMakeFiles/install/strip.dir
+/home/sirazhudin_ubuntu/projects_s21/A1_Maze_CPP.ID_1391674-Team_TL_darksidt.a6eee03a_bae7_4c64-1/src/install/CMakeFiles/maze_view_autogen_timestamp_deps.dir
+/home/sirazhudin_ubuntu/projects_s21/A1_Maze_CPP.ID_1391674-Team_TL_darksidt.a6eee03a_bae7_4c64-1/src/install/CMakeFiles/maze_view_autogen.dir
